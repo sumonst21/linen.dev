@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@prisma/client": "^3.15.2",
-    "axios": "^0.27.2"
+    "axios": "^1.6.0"
   },
   "devDependencies": {
     "dotenv-cli": "^6.0.0",
