@@ -19,7 +19,7 @@
     "@linen/sdk": "*",
     "@linen/types": "*",
     "@linen/utilities": "*",
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "dotenv": "^16.0.3",
     "envalid": "^7.3.1",
     "express": "^4.18.2",
