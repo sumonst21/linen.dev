@@ -19,12 +19,12 @@
     "@linen/sdk": "*",
     "@linen/types": "*",
     "@linen/utilities": "*",
-    "axios": "^0.27.2",
+    "axios": "^0.30.0",
     "dotenv": "^16.0.3",
     "envalid": "^7.3.1",
-    "express": "^4.18.2",
+    "express": "^4.20.0",
     "superjson": "^1.12.2",
-    "zod": "^3.20.0"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@types/express": "^4.17.17",
