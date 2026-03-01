@@ -14,14 +14,14 @@
   },
   "dependencies": {
     "@linen/integration-discord": "*",
-    "pm2": "^5.2.2"
+    "pm2": "^6.0.14"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "dotenv-cli": "^7.1.0",
-    "tsup": "^6.5.0",
+    "tsup": "^8.5.1",
     "tsx": "^3.12.5"
   }
 }
